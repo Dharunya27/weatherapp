@@ -1,4 +1,4 @@
-# 🌦️ Flask Weather App
+# 🌦️  Weather App
 
 A simple Weather App built using **Python**, **Flask**, and the **OpenWeather API**. Users can enter a city name to view the current weather information, including temperature, humidity, and weather conditions.
 
